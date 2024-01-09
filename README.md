@@ -1,5 +1,5 @@
 Capstone Project Module 2
-
+Dataset : https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK
 
 Sebuah Supermarket, ingin merekrut data scientist untuk memecahkan permasalahan selling dan marketing. Supermarket ini sudah memiliki banyak customer tetapi hanya sebagian saja yang sering berbelanja kembali.
 
