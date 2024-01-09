@@ -21,7 +21,7 @@ Total_Promotion yang diikuti oleh customer, isinya penjumlahan dari AcceptedCmp1
 Ikut_Promo untuk mempermudah pengelompokan customer yang pernah ikut promo dan yang tidak pernah ikut promo
 
 Data Analysis
-Link Grafik Tableau : https://public.tableau.com/views/MKhairulrizalR_CapstoneProject2/StoryCust?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+Link Tableau Dashboard : https://public.tableau.com/app/profile/muhammad.khairulrizal.rachmatullah/viz/MKhairulrizalR_CapstoneProject2/CapstoneProjectDash_?publish=yes
 
 Kesimpulan dan Rekomendasi
 Dari analisis yang telah dilakukan, kita bisa membuat kesimpulan untuk menaikan angka Recency Customer :
